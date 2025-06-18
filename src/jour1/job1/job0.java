@@ -1,3 +1,5 @@
+package jour1.job1;
+
 class job0{
     public static void main(String[] args) {
 
