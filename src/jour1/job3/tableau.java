@@ -1,4 +1,4 @@
-package jour1.job2;
+package jour1.job3;
 
 public class tableau {
     public static void main(String[]args){
